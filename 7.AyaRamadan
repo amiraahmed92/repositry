@@ -1,0 +1,22 @@
+The Commands are
+
+mkdir repo
+cd repo
+git init
+ls -a
+
+touch 7.AyaRamadan
+git add 7.AyaRamadan
+git status
+
+git commit -m "my message"
+git status
+
+create repo on github
+url ssh
+
+git remote add origin url
+git branch -M main
+
+git push origin main
+Send Invitation
