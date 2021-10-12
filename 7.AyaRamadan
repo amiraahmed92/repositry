@@ -20,4 +20,5 @@ git branch -M main
 
 git push origin main
 Send Invitation
-pull req
+pull request
+
